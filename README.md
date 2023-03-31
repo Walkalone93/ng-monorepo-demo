@@ -12,17 +12,18 @@ It's a demo project, that demonstrates the main concept, not a production ready 
 ```
 npm install
 ```
-2. You can run either the **whole** app, or a separate part:<br>
-a) Run the **Integration** application (the whole application):
+2. You can run either the **whole** app, or a separate part:
+
+- Run the **Integration** application (the whole application):
 ```
 npm run start:container // localhost:8080
 ```
-b) Run the **Home page** part:
+- Run the **Home page** part:
 ```
 npm run start:home // Home pages, localhost:8081
 
 ```
-c) Run the **Dashboard page** part:
+- Run the **Dashboard page** part:
 ```
 npm run start:dashboard // Dashboard, localhost:8082
 
