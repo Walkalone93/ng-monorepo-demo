@@ -12,7 +12,7 @@ It's a demo project, that demonstrates the main concept, not a production ready 
 ```
 npm install
 ```
-2. You can run either the **whole** app, or a separate part:
+2. You can run either the **whole** app, or a separate part:<br>
 a) Run the **Integration** application (the whole application):
 ```
 npm run start:container // localhost:8080
